@@ -1,6 +1,6 @@
-<?php include"head.php"; ?>
-<?php include"nav.php"; ?>
-<?php include"header.php"; ?>
+<?php include "head.php";?>
+<?php include "nav.php";?>
+<?php include "header.php";?>
     <!--welcome -->
   <section id="welcome">
     <div class="container">
@@ -37,15 +37,15 @@
                         <div >
                           <div class="thumnails">
                             <h4 class="text-description">Voluptatem accusantium doloremque</h4>
-                            <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, 
-                            sed diam nonummy nibh euismod tincidunt ut laoreet dolore 
+                            <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit,
+                            sed diam nonummy nibh euismod tincidunt ut laoreet dolore
                             magna aliquam erat volutpat. Ut wisi enim ad minim veniam,
-                            quis nostrud exerci tation ullamcorper suscipit 
+                            quis nostrud exerci tation ullamcorper suscipit
                             lobortis nisl ut aliquip ex ea commodo consequat.</p>
-                            <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, 
-                            sed diam nonummy nibh euismod tincidunt ut laoreet dolore 
+                            <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit,
+                            sed diam nonummy nibh euismod tincidunt ut laoreet dolore
                             magna aliquam erat volutpat. Ut wisi enim ad minim veniam,
-                            quis nostrud exerci tation ullamcorper suscipit 
+                            quis nostrud exerci tation ullamcorper suscipit
                             lobortis nisl ut aliquip ex ea commodo consequat.</p>
 
                             <div class="ficon">
@@ -115,7 +115,7 @@
                       <div class="col-md-4">
                         <div class="wow fadeInUp" data-wow-delay="0.4s">
                           <div class="align-center">
-                            <h4 class="title-p">John Doe</h4>         
+                            <h4 class="title-p">John Doe</h4>
                             <div class="icon">
                               <i class="fa fa-files-o fa-3x"></i>
                             </div>
@@ -132,7 +132,7 @@
                       <div class="col-md-4">
                         <div class="wow fadeInUp" data-wow-delay="0.6s">
                           <div class="align-center">
-                            <h4 class="title-p">Kelly Hidayah</h4>          
+                            <h4 class="title-p">Kelly Hidayah</h4>
                             <div class="icon">
                               <i class="fa fa-location-arrow fa-3x"></i>
                             </div>
@@ -176,4 +176,4 @@
     </div>
   </section>
 
-<?php include"food.php"; ?>
+<?php include "food.php";?>
