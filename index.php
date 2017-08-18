@@ -111,9 +111,11 @@
                             <div class="slides" data-group="slides">
                               <ul>
                                 <div class="slide-bodys" data-group="slide">
-                                  <li><img alt="" class="img-responsive" src="<?=IMG?>3.jpg" width="100%" height="450"/></li>
-                                  <li><img alt="" class="img-responsive" src="<?=IMG?>4.jpg" width="100%" height="450"/></li>
-                                  <li><img alt="" class="img-responsive" src="<?=IMG?>5.jpg" width="100%" height="450"/></li>
+                                  <li><img alt="" class="img-responsive" src="<?=IMG?>services/house.jpg" width="100%" height="450"/></li>
+                                  <li><img alt="" class="img-responsive" src="<?=IMG?>services/office.jpg" width="100%" height="450"/></li>
+                                  <li><img alt="" class="img-responsive" src="<?=IMG?>services/onetime.jpg" width="100%" height="450"/></li>
+                                  <li><img alt="" class="img-responsive" src="<?=IMG?>services/postcontr.jpg" width="100%" height="450"/></li>
+                                  <li><img alt="" class="img-responsive" src="<?=IMG?>services/seasonal.jpg" width="100%" height="450"/></li>
                                 </div>
                               </ul>
                             </div>

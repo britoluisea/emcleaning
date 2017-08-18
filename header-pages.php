@@ -1,10 +1,11 @@
   <!-- banner -->
   <header  id="page-interna" style="
-  background-image:url('<?=IMG?>2.jpg'); 
+  background-image:url('<?=IMG?>slider/5.jpg'); 
   background-size: cover;
   background-repeat: no-repeat;
-  background-position: center;
-  padding:150px;
+  background-position: center top;
+  padding:200px;
+  margin-top: 40px;
   ">
   </header>
   <?php if(isset($share_fb))
