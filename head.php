@@ -14,7 +14,7 @@
     <!-- Custom Fonts -->
     <link href="<?=CSS?>modern-business.css" rel="stylesheet">
     <link href='http://fonts.googleapis.com/css?family=Open+Sans:600italic,400,800,700,300' rel='stylesheet' type='text/css'>
-    <link href="<?=FONT_AWESOME?>font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="<?=CSS?>font-awesome.min.css" rel="stylesheet" type="text/css">
     <link href="<?=CSS?>responsive-slider.css" rel="stylesheet">
     <link rel="stylesheet" href="<?=CSS?>animate.min.css">
     <link href="<?=CSS?>styles.css" rel="stylesheet" type="text/css">
