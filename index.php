@@ -1,8 +1,95 @@
 <?php include"head.php"; ?>
 <?php include"nav.php"; ?>
 <?php include"header.php"; ?>
-    <!--welcome -->
-  <section id="welcome">
+  <!--OUR MISSION -->
+  <section id="our-services" >
+    <div class="container">
+      <div class="col-lg-12">
+        <h1 class="page-header">
+          Our Services
+        </h1>
+      </div>
+      <div class="col-md-12">
+        <div class="col-md-6  " style="background-color:#fff; padding:5px; border:2px solid #fff;">
+          <img src="<?=IMG?>services/house.jpg" alt="house" class="img-responsive" style="height: ;">
+          <div class="item-services">
+            <h3 class="title-p">House Cleaning</h3>
+            <p>Voluptatem accusantium doloremque laudantium sprea totam rem aperiam.</p>
+            <div class="ficon">
+              <a href="" alt="">Learn more</a> <i class="fa fa-long-arrow-right"></i>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-6" style="background-color: #fff; padding:5px; border:2px solid #fff;">
+          <img src="<?=IMG?>services/office.jpg" alt="house" class="img-responsive" style="height: ;">
+          <div class="item-services">
+            <h3 class="title-p">Office Cleaning</h3>
+            <p>Voluptatem accusantium doloremque laudantium sprea totam rem aperiam.</p>
+            <div class="ficon">
+              <a href="" alt="">Learn more</a> <i class="fa fa-long-arrow-right"></i>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-4 " style="background-color:#fff; padding:5px; border:2px solid #fff;">
+          <img src="<?=IMG?>services/postcontr.jpg" alt="house" class="img-responsive" style="height: ;">
+          <div class="item-services">
+            <h3 class="title-p">Post Construction Cleaning</h3>
+            <p>Voluptatem accusantium doloremque laudantium sprea totam rem aperiam.</p>
+            <div class="ficon">
+              <a href="" alt="">Learn more</a> <i class="fa fa-long-arrow-right"></i>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-4" style="background-color: #fff; padding:5px; border:2px solid #fff;">
+          <img src="<?=IMG?>services/onetime.jpg" alt="house" class="img-responsive" style="height: ;">
+          <div class="item-services">
+            <h3 class="title-p">Onetime Cleaning</h3>
+            <p>Voluptatem accusantium doloremque laudantium sprea totam rem aperiam.</p>
+            <div class="ficon">
+              <a href="" alt="">Learn more</a> <i class="fa fa-long-arrow-right"></i>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-4" style="background-color: #fff; padding:5px; border:2px solid #fff;">
+          <img src="<?=IMG?>services/seasonal.jpg" alt="house" class="img-responsive" style="height: ;">
+          <div class="item-services">
+            <h3 class="title-p">OSeasonal Cleaning</h3>
+            <p>
+             Voluptatem accusantium doloremque laudantium sprea totam rem aperiam.
+            </p>
+            <div class="ficon">
+              <a href="" alt="">Learn more</a> <i class="fa fa-long-arrow-right"></i>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!--separador -->
+  <section id="separador"  >
+    <div class="container">
+            <div class="col-lg-12">
+                <div class="col-lg-6">
+                  <h1>COMMERCIAL <br>
+                      & RECIDENTIAL
+                  </h1>
+                </div>
+                 <a class="btn btn-ps btn-lg  "  href="tel:5089331717"  >
+                    <i class="fa fa-phone" data-animation="tada"></i> 508 933 1717
+                 </a>
+                 <br>
+                <div class="col-lg-6">
+                 <a class="btn btn-ps btn-lg  "  href="mailto:info@em-cleaning.com"  >
+                    <i class="fa fa-envelope-o" data-animation="tada"></i> info@em-cleaning.com
+                 </a>
+                </div>
+            </div>
+
+    </div>
+  </section>
+    <!--About Us -->
+  <section id="about-us">
     <div class="container">
             <div class="col-lg-12">
                 <h1 class="page-header">
@@ -63,95 +150,6 @@
 
     </div>
   </section>
-  <!--separador -->
-  <section id="separador"  >
-    <div class="container">
-            <div class="col-lg-12">
-                <div class="col-lg-6">
-                  <h1>COMMERCIAL <br>
-                      & RECIDENTIAL
-                  </h1>
-                </div>
-                 <a class="btn btn-ps btn-lg  "  href="tel:5089331717"  >
-                    <i class="fa fa-phone" data-animation="tada"></i> 508 933 1717
-                 </a>
-                 <br>
-                <div class="col-lg-6">
-                 <a class="btn btn-ps btn-lg  "  href="mailto:info@em-cleaning.com"  >
-                    <i class="fa fa-envelope-o" data-animation="tada"></i> info@em-cleaning.com
-                 </a>
-                </div>
-            </div>
-
-    </div>
-  </section>
-  <!--OUR MISSION -->
-  <section id="our-mission" >
-    <div class="container">
-            <div class="col-lg-12">
-                <h1 class="page-header">
-                    Our Services
-                </h1>
-                <div class="container">
-                  <div class="row">
-                    <div class="content">
-                      <div class="col-md-4">
-                        <div class="wow fadeInUp" data-wow-delay="0.2s">
-                          <div class="align-center">
-                            <h4 class="title-p">Alexandra</h4>
-                            <div class="icon">
-                              <i class="fa fa-tasks fa-3x"></i>
-                            </div>
-                            <img src="<?=IMG?>13.jpg" alt="" class="img-responsive">
-                            <p class="text-description">
-                             Voluptatem accusantium doloremque laudantium sprea totam rem aperiam.
-                            </p>
-                            <div class="ficon">
-                              <a href="" alt="">Learn more</a><i class="fa fa-long-arrow-right"></i>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                      <div class="col-md-4">
-                        <div class="wow fadeInUp" data-wow-delay="0.4s">
-                          <div class="align-center">
-                            <h4 class="title-p">John Doe</h4>         
-                            <div class="icon">
-                              <i class="fa fa-files-o fa-3x"></i>
-                            </div>
-                            <img src="<?=IMG?>members1.jpg" alt="" class="img-responsive">
-                            <p class="text-description">
-                             Voluptatem accusantium doloremque laudantium sprea totam rem aperiam.
-                            </p>
-                            <div class="ficon">
-                              <a href="" alt="">Learn more</a> <i class="fa fa-long-arrow-right"></i>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                      <div class="col-md-4">
-                        <div class="wow fadeInUp" data-wow-delay="0.6s">
-                          <div class="align-center">
-                            <h4 class="title-p">Kelly Hidayah</h4>          
-                            <div class="icon">
-                              <i class="fa fa-location-arrow fa-3x"></i>
-                            </div>
-                            <img src="<?=IMG?>members3.jpg" alt="" class="img-responsive">
-                            <p class="text-description">
-                             Voluptatem accusantium doloremque laudantium sprea totam rem aperiam.
-                            </p>
-                            <div class="ficon">
-                              <a href="" alt="">Learn more</a> <i class="fa fa-long-arrow-right"></i>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-            </div>
-    </div>
-  </section>
        <!-- testimonios -->
   <section id="testimonios"  style="background-image:url('<?=IMG?>2.jpg');">
 
@@ -172,6 +170,35 @@
                  </div>
              </div>
          </div>
+      </div>
+    </div>
+  </section>
+       <!-- contacto -->
+  <section id="contacto"   >
+    <div class="container">
+      <div class="col-lg-8 col-lg-offset-2">
+        <h1 class="page-header">
+          Contact Us
+        </h1>
+        <form action="" method="POST" class="form2">
+          <div class="form-group">
+            <label for="">FULL NAME</label>
+            <input type="text" class="form-control" id=""  >
+          </div>
+          <div class="form-group">
+            <label for="">PHONE</label>
+            <input type="text" class="form-control" id=""  >
+          </div>
+          <div class="form-group">
+            <label for="">EMAIL</label>
+            <input type="text" class="form-control" id=""  >
+          </div>
+          <div class="form-group">
+            <label for="">MESSAGE</label>
+            <textarea class="form-control" id=""  ></textarea>
+          </div>
+          <button type="submit" class="btn btn-ps btn-lg  ">SEND</button>
+        </form>
       </div>
     </div>
   </section>

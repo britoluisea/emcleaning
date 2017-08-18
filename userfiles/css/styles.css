@@ -572,3 +572,44 @@ a.btn-contact, a.btn-contact:hover,  a.btn-contact:focus,  a.btn-contact:active{
   -webkit-transform: scaleY(1);
   transform: scaleY(1);
 }
+
+.service{
+  width: 70%;
+  position: relative;
+  min-height: 1px;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin: 0px auto;
+}
+.item-services {
+    position: relative;
+    margin-top: -135px;
+    padding: 5px 10px;
+    background: rgba(0, 0, 0, 0.4);
+    color: #fff;
+}
+.item-services .ficon,
+.item-services .ficon a,
+.item-services .ficon a:hover,
+.item-services .ficon a:active
+{
+  color: #fff;
+  text-decoration: none;
+}
+.form2 input, .form2 textarea {
+    border-radius: 0px;
+    border: 1px solid #2a2727;
+    background: rgba(221, 221, 221, 0.3);
+    padding: 20px;
+}
+.form2 .btn{
+  border-radius: 0px; 
+}
+.t-fw {
+    font-size: 26px;
+    text-align: left;
+    border-bottom: 2px solid #b80664;
+    padding-bottom: 10px;
+    padding-top: 20px;
+    margin-bottom: 30px;
+}
